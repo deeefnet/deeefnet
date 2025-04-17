@@ -78,3 +78,87 @@ Basketball 🏀 | VTT 🚵 | Surf 🌊 | Randonnée 🏔️
 📍 Basé à Rabat, Maroc
 😄 Pronoms : il/lui
 ⚡ Fun fact : J’ai développé une appli de prédiction de matchs NBA avec 70 % de précision. Mes potes pensent que je suis un voyant 😂
+
+
+
+
+👨‍💻 About Me
+
+I’m Abdessamad Elfouri, a 4th-year engineering student at ISMAGI (Institut Supérieur de Management, d’Administration et de Génie Informatique), specializing in Web & Mobile Development.
+
+Driven by a passion for technology and innovation, I combine technical expertise, creative thinking, and constant curiosity to design impactful digital solutions.
+🌱 Currently Learning
+
+    Advanced React (Hooks, context, clean architecture)
+
+    Generative AI: LLMs, ChatGPT, embeddings, vector databases
+
+    NLP integration in HR tech (parsing, matching, chatbots)
+
+👀 Interests
+
+    Full Stack Web & Mobile Development
+
+    Artificial Intelligence: NLP, Machine Learning, Generative AI
+
+    Distributed Systems & Big Data Processing
+
+    Open-source collaboration & tech content creation
+
+💞️ Looking to Collaborate On
+
+    Real-world impact web/mobile projects
+
+    AI-driven HR solutions: CV parsing, smart matching, AI agents
+
+    Hackathons, collaborative coding challenges, or applied R&D
+
+🎓 Education & Certifications
+
+    Engineering Program – ISMAGI (2024/2025)
+
+    ISTA NTIC Rabat – Software Development
+
+    Certified in Cisco, Microsoft, Python, C++, Big Data
+
+💻 Technical Skills
+
+    Full Stack: React.js, Node.js, Vue.js, Spring Boot
+
+    Mobile Development: Flutter, Dart, Java, SQLite
+
+    Databases: SQL, PL/SQL
+
+    Programming Languages: Java, Python, C++, PHP
+
+    Frontend/Backend: HTML, CSS, JavaScript
+
+🤖 AI Projects
+
+    Intelligent CV analysis using NLP
+
+    Semantic profile/job matching
+
+    ChatGPT-style conversational bots
+
+🌍 Languages & Soft Skills
+
+    Languages: 🇫🇷 French | 🇬🇧 English | 🇨🇳 Chinese | 🇲🇦 Arabic
+
+    Soft Skills: Resilient, proactive, team player, solution-oriented
+
+⚽ Hobbies & Passions
+
+Basketball 🏀 | Mountain Biking 🚵 | Surfing 🌊 | Hiking 🏔️
+📫 Contact
+
+📧 Emails:
+
+    A_ssamad2022@outlook.com
+
+    AI_Tech2025_Dev@outlook.com
+
+📞 Phone: +212 719913847
+📍 Location: Rabat, Morocco
+😄 Pronouns: he/him
+⚡ Fun fact: I once built an NBA match prediction app… and it had over 70% accuracy. My friends still think I’m some kind of wizard 😂
